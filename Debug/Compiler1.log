@@ -1,0 +1,21 @@
+﻿生成启动时间为 2015/12/10 23:31:21。
+     1>项目“E:\Learning\编译原理\Compiler1\Compiler1\Compiler1.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         E:\Software\VStudio2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Learning\编译原理\Compiler2\Debug\Compiler1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Learning\编译原理\Compiler2\Debug\Compiler1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Learning\编译原理\Compiler2\Debug\Compiler1.lib" /MACHINE:X86 Debug\assignment.obj
+         Debug\base.obj
+         Debug\Compiler1.obj
+         Debug\error.obj
+         Debug\id.obj
+         Debug\keyword.obj
+         Debug\note.obj
+         Debug\num.obj
+         Debug\operation.obj
+         Debug\separator.obj
+         Debug\statement.obj
+         Debug\stdafx.obj
+         Compiler1.vcxproj -> E:\Learning\编译原理\Compiler2\Debug\Compiler1.exe
+     1>已完成生成项目“E:\Learning\编译原理\Compiler1\Compiler1\Compiler1.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.67
